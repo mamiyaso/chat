@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105202498232",
+    "project_id": "chat-d8dea",
+    "storage_bucket": "chat-d8dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105202498232:android:632efe8a1b37940d1f124d",
+        "android_client_info": {
+          "package_name": "com.mamiyaso.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCskiGx_wexmX8kDyI0wJQHZoUqU3Sdjr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
